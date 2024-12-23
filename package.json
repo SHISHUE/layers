@@ -1,6 +1,6 @@
 {
   "name": "layers_001",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "type": "module",
   "scripts": {
@@ -16,7 +16,6 @@
     "vue": "latest",
     "vue-router": "latest"
   },
- 
   "description": "A brief description of your package",
   "main": "nuxt.config.ts",
   "author": "Akash",
