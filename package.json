@@ -15,7 +15,7 @@
     "vue": "latest",
     "vue-router": "latest"
   },
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A brief description of your package",
   "main": "nuxt.config.ts",
   "author": "Akash",
