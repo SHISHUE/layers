@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
+    "test": "echo \"No tests specified\" && exit 0",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
@@ -16,7 +17,7 @@
   },
   "version": "1.0.1",
   "description": "A brief description of your package",
-  "main": "nuxt.config.ts", 
+  "main": "nuxt.config.ts",
   "author": "Akash",
   "license": "MIT",
   "files": [
